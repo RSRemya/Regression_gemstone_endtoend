@@ -28,7 +28,9 @@ pip install -r requirements.txt
 ### folder: pipeline - create following files in it- __init__.py , prediction_pipeline.py, training_pipeline.py
 ### file: __init__.py
 
-## Create .gitignore in vs code to remove and:
+
+
+## Create .gitignore in vs code to remove unwanted folders and files from github and:
 ### in that file copy-paste  following things in the github link:
 FSDSRegression/.gitignore at main · krishnaik06/FSDSRegression (github.com) 
 
